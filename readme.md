@@ -1,0 +1,1 @@
+readme file through windows cmd prompt
